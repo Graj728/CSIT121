@@ -1,0 +1,5 @@
+Lab 04 Reflection Template
+
+Replace the bracketed parts with your own experience before submitting.
+
+I learned how to use different web image formats, including JPG, PNG, and GIF. I also learned how to use one external CSS file to keep the pages consistent. One challenge I had was [describe your actual challenge]. I solved this problem by [describe what you actually did, such as checking file paths, testing the page, or reading course materials]. I enjoyed [describe what you enjoyed]. If I had more time, I would improve [describe your own improvement]. The resources I used were the course materials, W3Schools, and [add any other resources you actually used].
