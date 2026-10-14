@@ -2,19 +2,25 @@
     background-color: aqua;
 }
 
+
 #box {
+  box-sizing: border-box;
+  background-color: white;
+  padding: 30px;
+  border-radius: 80px;
+  max-width: 900px;
+  margin: 6px auto 0;
+}
 
-    background-color: white;
-    padding-bottom: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 30px;
-    position: relative;
-    top: 6px;
-    border-radius: 80px;
-    width: 8 vw;
-
-
+#scr {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  margin: 20px auto;
+  border: 3px solid #0b3b4a;
+  border-radius: 16px;
 }
 
 .questions {
@@ -34,14 +40,4 @@
     padding: 20px 24px;
     margin: 20px 0;
 }
-#scr{
-    
-  
-    border: 30px;
-    border-radius: 30px;
-    height: 45vh;
-    width:90vw;
-    position: relative;
-    top: 3px;
-    right: -30px;
-}
+
