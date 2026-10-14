@@ -1,0 +1,34 @@
+* {
+    background-color: aqua;
+}
+
+#box {
+
+    background-color: white;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+
+    border-radius: 80px;
+
+
+}
+
+.questions {
+    background-color: rgb(187, 239, 248, 0.3);
+    color: #ff7474;
+    border: 3px solid #0b3b4a;
+    border-radius: 16px;
+    padding: 20px 24px;
+    margin: 20px 0;
+}
+
+.answer {
+    background-color: rgba(187, 248, 213, 0.6);
+    color: #15b3b9;
+    border: 3px solid #1782a3;
+    border-radius: 16px;
+    padding: 20px 24px;
+    margin: 20px 0;
+}
