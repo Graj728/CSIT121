@@ -124,18 +124,3 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 600px) {
-    header,
-    main,
-    footer {
-        width: min(100% - 20px, 950px);
-    }
-
-    main {
-        padding: 20px;
-    }
-
-    nav a {
-        padding: 9px 11px;
-    }
-}
