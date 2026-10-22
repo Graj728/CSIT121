@@ -2,7 +2,10 @@
     background-color: aqua;
 }
 
-
+a{
+  color: #05393b;
+  background-color: transparent;
+}
 #box {
   box-sizing: border-box;
   background-color: white;
@@ -24,8 +27,8 @@
 }
 
 .questions {
-    background-color: rgb(187, 239, 248, 0.3);
-    color: #ff7474;
+    background-color: rgba(49, 194, 220, 0.3);
+    color: #d61717;
     border: 3px solid #0b3b4a;
     border-radius: 16px;
     padding: 20px 24px;
@@ -34,7 +37,7 @@
 
 .answer {
     background-color: rgba(187, 248, 213, 0.6);
-    color: #15b3b9;
+    color: #05393b;
     border: 3px solid #1782a3;
     border-radius: 16px;
     padding: 20px 24px;
