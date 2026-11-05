@@ -1,0 +1,57 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial;
+    color: darkblue;
+}
+img {
+    width: 20px;
+}
+a{
+    color: white;
+    text-decoration: dotted;
+}
+nav{
+    background-color: rgb(17, 90, 224);
+    padding: 5px;
+}
+ ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+table {
+    border-collapse: collapse;
+    background-color: white;
+}
+th {
+    background-color: rgb(17, 90, 224);
+    color: white;
+}
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+img {
+    width: 20px;
+}
+form {
+    background-color: white;
+    margin: 20px
+}
+.group {
+    margin: 15px;
+}
+
+input, select, textarea {
+    padding: 10px;
+}
+
+#button{
+    position: relative;
+    left: 20vw;
+    background-color: rgb(18, 253, 253);
+    color: rgba(20, 0, 0, 0.6);
+    font-size: large;
+    border-radius: 10px;
+}
