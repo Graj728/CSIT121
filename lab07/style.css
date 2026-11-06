@@ -49,6 +49,22 @@ form {
 input, select, textarea {
     padding: 10px;
 }
+.tier-a{
+    background-color: rgb(187, 187, 215);
+}
+.tier-s{
+    background-color: rgb(251, 255, 0);
+}
+.tier-b{
+    background-color: rgb(149, 240, 89);
+}
+.tier-c{
+    background-color: rgb(225, 150, 75);
+}
+.tier-d{
+    background-color: rgb(255, 0, 93);
+    color: black;
+}
 
 #button{
     position: relative;
