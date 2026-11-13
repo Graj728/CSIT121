@@ -9,7 +9,7 @@
     
 </head>
 <body>
-    <header>
+    <header id="head">
         <h1>Nepal &amp; its Heritage</h1>
         <nav aria-label="Main navigation">
             <div id="mySidenav" class="sidenav">
@@ -45,12 +45,14 @@
 function openNav() {
     document.getElementById("mySidenav").style.width = "200px";
     document.getElementById("main").style.marginLeft = "200px";
+    document.getElementById("head").style.marginLeft = "200px";
 }
 
 // Close the side navigation
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft = "0";
+    document.getElementById("head").style.marginLeft = "0";
 }</script>
 </body>
 </html>
